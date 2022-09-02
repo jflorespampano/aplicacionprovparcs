@@ -1,0 +1,8 @@
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\bin\Debug\aplicacionprovparcs.exe
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\bin\Debug\aplicacionprovparcs.pdb
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.csprojResolveAssemblyReference.cache
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.frmMostrarPartes.resources
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.MainForm.resources
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.csproj.GenerateResource.Cache
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.exe
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.pdb
