@@ -6,3 +6,4 @@ C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionp
 C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.csproj.GenerateResource.Cache
 C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.exe
 C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.pdb
+C:\Users\Docente\Documents\SharpDevelop Projects\aplicacionprovparcs\aplicacionprovparcs\obj\Debug\aplicacionprovparcs.frmActualizarParte.resources

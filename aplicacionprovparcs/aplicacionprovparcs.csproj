@@ -48,6 +48,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmActualizarParte.cs" />
+    <Compile Include="frmActualizarParte.Designer.cs">
+      <DependentUpon>frmActualizarParte.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMostrarPartes.cs" />
     <Compile Include="frmMostrarPartes.Designer.cs">
       <DependentUpon>frmMostrarPartes.cs</DependentUpon>
@@ -60,6 +64,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmActualizarParte.resx">
+      <DependentUpon>frmActualizarParte.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMostrarPartes.resx">
       <DependentUpon>frmMostrarPartes.cs</DependentUpon>
     </EmbeddedResource>

@@ -38,5 +38,12 @@ namespace aplicacionprovparcs
 			f.ShowDialog();
 			
 		}
+		
+		void ActualizarToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			frmActualizarParte f=new frmActualizarParte();
+			f.Text="Actualizar parte";
+			f.ShowDialog();
+		}
 	}
 }

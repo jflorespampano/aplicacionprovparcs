@@ -43,6 +43,7 @@ namespace aplicacionprovparcs
 			this.tipoParteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.altaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
 			this.mostrarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+			this.actualizarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip1.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -61,7 +62,8 @@ namespace aplicacionprovparcs
 			// 
 			this.parteToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
 									this.altaToolStripMenuItem,
-									this.mostrarToolStripMenuItem});
+									this.mostrarToolStripMenuItem,
+									this.actualizarToolStripMenuItem});
 			this.parteToolStripMenuItem.Name = "parteToolStripMenuItem";
 			this.parteToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
 			this.parteToolStripMenuItem.Text = "parte";
@@ -91,14 +93,21 @@ namespace aplicacionprovparcs
 			// altaToolStripMenuItem1
 			// 
 			this.altaToolStripMenuItem1.Name = "altaToolStripMenuItem1";
-			this.altaToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+			this.altaToolStripMenuItem1.Size = new System.Drawing.Size(115, 22);
 			this.altaToolStripMenuItem1.Text = "alta";
 			// 
 			// mostrarToolStripMenuItem1
 			// 
 			this.mostrarToolStripMenuItem1.Name = "mostrarToolStripMenuItem1";
-			this.mostrarToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+			this.mostrarToolStripMenuItem1.Size = new System.Drawing.Size(115, 22);
 			this.mostrarToolStripMenuItem1.Text = "mostrar";
+			// 
+			// actualizarToolStripMenuItem
+			// 
+			this.actualizarToolStripMenuItem.Name = "actualizarToolStripMenuItem";
+			this.actualizarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.actualizarToolStripMenuItem.Text = "actualizar";
+			this.actualizarToolStripMenuItem.Click += new System.EventHandler(this.ActualizarToolStripMenuItemClick);
 			// 
 			// MainForm
 			// 
@@ -114,6 +123,7 @@ namespace aplicacionprovparcs
 			this.ResumeLayout(false);
 			this.PerformLayout();
 		}
+		private System.Windows.Forms.ToolStripMenuItem actualizarToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem mostrarToolStripMenuItem1;
 		private System.Windows.Forms.ToolStripMenuItem altaToolStripMenuItem1;
 		private System.Windows.Forms.ToolStripMenuItem tipoParteToolStripMenuItem;
